@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+echo '# Input and output' > README.md
+echo 'notes blah blah' > README.md
+echo >> README.md
+ls >> README.md 
+echo "My current workink directory is " >> README.md
+pwd >> README.md
