@@ -1,3 +1,3 @@
 # Min bild
 
-![alt text] (min_bild.png)
+![alt text](min_bild.png)
