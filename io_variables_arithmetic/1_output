@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+name='Iracy'
+echo "Hello $name"
+
+echo 'This is a new line'
+
+printf "Name: %s\nAge: %d\n" $name 43
